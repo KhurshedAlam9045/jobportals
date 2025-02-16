@@ -127,7 +127,7 @@
 }
 .fix-right-side-btn {
     position: fixed;
-    top: 48% !important;
+    top: 36% !important;
     z-index: 9;
     color: #fff;
     background-color: rgba(102, 189, 0, 1);
